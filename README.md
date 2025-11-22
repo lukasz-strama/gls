@@ -4,7 +4,7 @@ A modern alternative to the GNU `ls` utility, written in Go. Propably usless but
 
 ## Features
 - Colorized output based on file types
-- Optional icons for files and directories
+- Optional icons for files and directories (use Nerd Font)
 - Sorting options (by name, size, modification time, extension)
 - Size filtering (minimum and maximum size)
 - Configuration file support for default options
